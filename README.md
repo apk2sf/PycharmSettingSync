@@ -1,2 +1,0 @@
-# PycharmSettingSync
-PycharmSettingSync
