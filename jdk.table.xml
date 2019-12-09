@@ -1,0 +1,106 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_91&quot;" />
+      <homePath value="G:/develop/Java/jdk1.8.0_91" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="jar://G:/develop/Java/jdk1.8.0_91/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar://G:/develop/Java/jdk1.8.0_91/jre/lib/deploy.jar!/" type="simple" />
+            <root url="jar://G:/develop/Java/jdk1.8.0_91/jre/lib/ext/access-bridge-64.jar!/" type="simple" />
+            <root url="jar://G:/develop/Java/jdk1.8.0_91/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar://G:/develop/Java/jdk1.8.0_91/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar://G:/develop/Java/jdk1.8.0_91/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar://G:/develop/Java/jdk1.8.0_91/jre/lib/ext/jfxrt.jar!/" type="simple" />
+            <root url="jar://G:/develop/Java/jdk1.8.0_91/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar://G:/develop/Java/jdk1.8.0_91/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar://G:/develop/Java/jdk1.8.0_91/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar://G:/develop/Java/jdk1.8.0_91/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar://G:/develop/Java/jdk1.8.0_91/jre/lib/ext/sunmscapi.jar!/" type="simple" />
+            <root url="jar://G:/develop/Java/jdk1.8.0_91/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar://G:/develop/Java/jdk1.8.0_91/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar://G:/develop/Java/jdk1.8.0_91/jre/lib/javaws.jar!/" type="simple" />
+            <root url="jar://G:/develop/Java/jdk1.8.0_91/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar://G:/develop/Java/jdk1.8.0_91/jre/lib/jfr.jar!/" type="simple" />
+            <root url="jar://G:/develop/Java/jdk1.8.0_91/jre/lib/jfxswt.jar!/" type="simple" />
+            <root url="jar://G:/develop/Java/jdk1.8.0_91/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar://G:/develop/Java/jdk1.8.0_91/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar://G:/develop/Java/jdk1.8.0_91/jre/lib/plugin.jar!/" type="simple" />
+            <root url="jar://G:/develop/Java/jdk1.8.0_91/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar://G:/develop/Java/jdk1.8.0_91/jre/lib/rt.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://G:/develop/Java/jdk1.8.0_91/src.zip!/" type="simple" />
+            <root url="jar://G:/develop/Java/jdk1.8.0_91/javafx-src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (new_proxy_ip_web)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.0" />
+      <homePath value="E:\project\python\person\new_proxy_ip_web\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/develop/Python38/DLLs" type="simple" />
+            <root url="file://D:/develop/Python38/Lib" type="simple" />
+            <root url="file://D:/develop/Python38" type="simple" />
+            <root url="file://E:/project/python/person/new_proxy_ip_web/venv" type="simple" />
+            <root url="file://E:/project/python/person/new_proxy_ip_web/venv/Lib/site-packages" type="simple" />
+            <root url="jar://E:/project/python/person/new_proxy_ip_web/venv/Lib/site-packages/setuptools-40.8.0-py3.8.egg!/" type="simple" />
+            <root url="file://E:/project/python/person/new_proxy_ip_web/venv/Lib/site-packages/pip-19.0.3-py3.8.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/-534921485" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="E:/project/python/person/new_proxy_ip_web" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (MyPythonVirtualEnvironment)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.0" />
+      <homePath value="D:\develop\Python38\MyPythonVirtualEnvironment\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/develop/Python38/DLLs" type="simple" />
+            <root url="file://D:/develop/Python38/Lib" type="simple" />
+            <root url="file://D:/develop/Python38" type="simple" />
+            <root url="file://D:/develop/Python38/MyPythonVirtualEnvironment" type="simple" />
+            <root url="file://D:/develop/Python38/MyPythonVirtualEnvironment/Lib/site-packages" type="simple" />
+            <root url="file://D:/develop/Python38/Lib/site-packages" type="simple" />
+            <root url="file://D:/develop/Python38/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/466150275" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional>
+        <PATHS_ADDED_BY_USER_ROOT PATH_ADDED_BY_USER="file://D:/develop/Python38/Scripts" />
+      </additional>
+    </jdk>
+  </component>
+</application>
